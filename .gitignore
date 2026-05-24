@@ -1,0 +1,10 @@
+*.vcd
+*.out
+cpu_sim
+sim_alu
+sim_rf
+sim_imm
+sim_dec
+sim_aluctl
+sim_pctb
+*.log
