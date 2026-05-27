@@ -192,7 +192,3 @@ gtkwave cpu_wave.vcd
 - Digital verification workflow
 
 ---
-
-## License
-
-MIT License
